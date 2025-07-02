@@ -30,11 +30,6 @@ A sleek and modern dark theme designed for professional developers. This theme f
 - **Comments**: `#6b7280` - Muted gray for annotations
 - **Variables**: `#e4e4e7` - Light gray for readability
 
-## 📸 Preview
-
-![Obsidian Pro Theme Preview](/images/obsidian-pro-theme.png)
-
-_Ultra-dark interface with vibrant keyword highlighting - `const` in purple, `public` in blue_
 
 ## 🚀 Installation
 
