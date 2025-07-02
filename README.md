@@ -123,7 +123,7 @@ Contributions are welcome! If you'd like to improve the theme:
 
 ## 📝 Changelog
 
-### Version 1.0.1
+### Version 1.0.2
 
 - Initial release
 - Ultra-dark interface design

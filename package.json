@@ -2,7 +2,7 @@
   "name": "obsidian-pro-theme",
   "displayName": "Obsidian Pro Theme",
   "description": "A sleek dark theme for professional developers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "publisher": "williamkoller",
   "engines": {
