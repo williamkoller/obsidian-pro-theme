@@ -57,8 +57,8 @@ A sleek and modern dark theme designed for professional developers. This theme f
      "name": "obsidian-pro-theme",
      "displayName": "Obsidian Pro Theme",
      "description": "A sleek dark theme for professional developers",
-     "version": "1.0.0",
-     "publisher": "yourname",
+     "version": "1.0.4",
+     "publisher": "williamkoller",
      "engines": {
        "vscode": "^1.74.0"
      },
