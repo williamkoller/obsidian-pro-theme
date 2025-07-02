@@ -30,7 +30,6 @@ A sleek and modern dark theme designed for professional developers. This theme f
 - **Comments**: `#6b7280` - Muted gray for annotations
 - **Variables**: `#e4e4e7` - Light gray for readability
 
-
 ## 🚀 Installation
 
 ### Method 1: Manual Installation
@@ -124,7 +123,7 @@ Contributions are welcome! If you'd like to improve the theme:
 
 ## 📝 Changelog
 
-### Version 1.0.0
+### Version 1.0.1
 
 - Initial release
 - Ultra-dark interface design
@@ -134,7 +133,6 @@ Contributions are welcome! If you'd like to improve the theme:
 - Complete syntax highlighting for TypeScript/JavaScript
 - Optimized color palette for code readability
 - Minimal sidebar and activity bar styling
-
 
 ## 🙏 Acknowledgments
 
