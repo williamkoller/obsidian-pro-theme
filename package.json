@@ -1,0 +1,30 @@
+{
+  "name": "obsidian-pro-theme",
+  "displayName": "Obsidian Pro Theme",
+  "description": "A sleek dark theme for professional developers",
+  "version": "1.0.0",
+  "publisher": "yourname",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "obsidian",
+    "modern",
+    "minimal",
+    "professional"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/obsidian-pro-color-theme.json"
+      }
+    ]
+  }
+}
