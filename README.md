@@ -135,9 +135,6 @@ Contributions are welcome! If you'd like to improve the theme:
 - Optimized color palette for code readability
 - Minimal sidebar and activity bar styling
 
-## 📄 License
-
-This theme is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
