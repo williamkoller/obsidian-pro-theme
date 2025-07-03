@@ -93,6 +93,9 @@ A sleek and modern dark theme designed for professional developers. This theme f
 
 _Coming soon - theme will be published to the VS Code Marketplace_
 
+## Preview
+![Preview](https://ibb.co/Y4yF1dnf)
+
 ## 🛠️ Customization
 
 You can customize the theme by modifying the color values in the theme file. Common customizations include:
