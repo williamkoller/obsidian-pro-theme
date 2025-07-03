@@ -125,19 +125,6 @@ Contributions are welcome! If you'd like to improve the theme:
 4. Push to the branch (`git push origin feature/amazing-improvement`)
 5. Open a Pull Request
 
-## 📝 Changelog
-
-### Version 1.0.3
-
-- Initial release
-- Ultra-dark interface design
-- Enhanced keyword highlighting with distinct colors:
-  - Purple for `const`, `let`, `var` declarations
-  - Blue for `public`, `private`, `static` modifiers
-- Complete syntax highlighting for TypeScript/JavaScript
-- Optimized color palette for code readability
-- Minimal sidebar and activity bar styling
-
 ## 🙏 Acknowledgments
 
 - Inspired by modern productivity applications and professional development tools
