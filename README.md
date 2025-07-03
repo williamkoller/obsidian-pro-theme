@@ -94,7 +94,7 @@ A sleek and modern dark theme designed for professional developers. This theme f
 _Coming soon - theme will be published to the VS Code Marketplace_
 
 ## Preview
-![Preview](https://ibb.co/Y4yF1dnf)
+<img src="https://ibb.co/Y4yF1dnf">
 
 ## 🛠️ Customization
 
