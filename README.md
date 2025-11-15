@@ -1,139 +1,198 @@
-# Obsidian Pro Theme for VS Code
+# 🌑 Obsidian Pro — Premium Theme Collection for VS Code
 
-A sleek and modern dark theme designed for professional developers. This theme features an ultra-dark interface with carefully selected accent colors that enhance code readability while maintaining a professional, minimalist aesthetic.
-
-## 🌟 Features
-
-- **Ultra Dark Interface**: Deep black backgrounds (#0a0a0a) for reduced eye strain
-- **Minimal Sidebar**: Clean, distraction-free file explorer
-- **Vibrant Syntax Highlighting**: Carefully chosen colors for optimal code readability
-- **Professional Design**: Inspired by modern developer tools and productivity applications
-- **High Contrast**: Perfect balance between dark backgrounds and bright syntax colors
-
-## 🎨 Color Palette
-
-### Interface Colors
-
-- **Editor Background**: `#0a0a0a` - Ultra dark for focus
-- **Sidebar**: `#070707` - Minimal and clean
-- **Activity Bar**: `#050505` - Nearly black
-- **Status Bar**: `#0f0f0f` - Subtle dark gray
-
-### Syntax Colors
-
-- **Keywords (const, let, var)**: `#8b5cf6` - Purple for declarations
-- **Access Modifiers (public, private)**: `#3b82f6` - Blue for visibility
-- **Functions**: `#22d3ee` - Cyan for function names and calls
-- **Strings**: `#10b981` - Green for text literals
-- **Numbers**: `#f59e0b` - Orange for numeric values
-- **Classes/Types**: `#8b5cf6` - Purple for class definitions
-- **Comments**: `#6b7280` - Muted gray for annotations
-- **Variables**: `#e4e4e7` - Light gray for readability
-
-## 🚀 Installation
-
-### Method 1: Manual Installation
-
-1. **Download the theme files**
-2. **Open VS Code and navigate to the extensions folder:**
-
-   - **Windows**: `%USERPROFILE%\.vscode\extensions`
-   - **macOS**: `~/.vscode/extensions`
-   - **Linux**: `~/.vscode/extensions`
-
-3. **Create a new folder:**
-
-   ```bash
-   mkdir obsidian-pro-theme
-   cd obsidian-pro-theme
-   ```
-
-4. **Create the required files:**
-
-   **`package.json`**:
-
-   ```json
-   {
-     "name": "obsidian-pro-theme",
-     "displayName": "Obsidian Pro Theme",
-     "description": "A sleek dark theme for professional developers",
-     "version": "1.0.4",
-     "publisher": "williamkoller",
-     "engines": {
-       "vscode": "^1.74.0"
-     },
-     "categories": ["Themes"],
-     "keywords": [
-       "theme",
-       "dark",
-       "obsidian",
-       "modern",
-       "minimal",
-       "professional"
-     ],
-     "contributes": {
-       "themes": [
-         {
-           "label": "Obsidian Pro",
-           "uiTheme": "vs-dark",
-           "path": "./themes/obsidian-pro-color-theme.json"
-         }
-       ]
-     }
-   }
-   ```
-
-5. **Create the themes folder and add the theme file**
-6. **Restart VS Code**
-7. **Activate the theme:**
-   - Press `Ctrl+K Ctrl+T` (Windows/Linux) or `Cmd+K Cmd+T` (macOS)
-   - Select **"Obsidian Pro"** from the list
-
-### Method 2: From VS Code Marketplace
-
-_Coming soon - theme will be published to the VS Code Marketplace_
-
-## Preview
-<a href="https://ibb.co/Y4yF1dnf"><img src="https://i.ibb.co/WNP4Mz8B/Screenshot-from-2025-07-03-09-29-41.png" alt="Screenshot-from-2025-07-03-09-29-41"  />
-</a>
-
-## 🛠️ Customization
-
-You can customize the theme by modifying the color values in the theme file. Common customizations include:
-
-- **Adjusting background darkness**: Modify `editor.background` and `sideBar.background`
-- **Changing keyword colors**: Update purple (`#8b5cf6`) for `const/let` and blue (`#3b82f6`) for `public/private`
-- **Function highlighting**: Customize cyan (`#22d3ee`) values for functions
-- **Syntax highlighting**: Customize individual token colors in the `tokenColors` section
-
-## 🎯 Optimized For
-
-- **TypeScript/JavaScript** development with enhanced keyword distinction
-- **Object-oriented programming** with clear access modifier highlighting
-- **React/Next.js** projects
-- **Node.js** applications
-- **Full-stack** development
-- **Professional coding environments**
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve the theme:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-improvement`)
-3. Commit your changes (`git commit -m 'Add amazing improvement'`)
-4. Push to the branch (`git push origin feature/amazing-improvement`)
-5. Open a Pull Request
-
-## 🙏 Acknowledgments
-
-- Inspired by modern productivity applications and professional development tools
-- Created for developers who appreciate clean, distraction-free coding environments
-- Built with accessibility and eye strain reduction in mind
-- Designed with enhanced keyword distinction for better code comprehension
+**Obsidian Pro** é uma coleção premium de temas criada para desenvolvedores que buscam **elegância**, **clareza visual**, **conforto**, e uma experiência de código moderna e minimalista.  
+Todos os temas foram cuidadosamente projetados para manter a identidade do Obsidian Pro, enquanto apresentam variações únicas de cor, atmosfera e estilo.
 
 ---
 
-**Enjoy coding with Obsidian Pro! 💎**
+# 🎨 Coleção de Temas Inclusos
 
-_If you like this theme, please consider giving it a ⭐ star and sharing it with your developer friends!_
+Esta extensão inclui **8 temas exclusivos**, organizados entre variações dark e light, todos seguindo a mesma filosofia visual.
+
+---
+
+## 🟪 Obsidian Pro — Dark (Original)
+O tema principal da coleção: **dark profundo real**, minimalista e altamente profissional.
+
+- Preto real (#0a0a0a)  
+- Alto contraste suave  
+- Paleta equilibrada entre roxo, azul e ciano  
+- Ideal para longas sessões de programação  
+
+---
+
+## 🟣 Dark Purple Edition
+Uma versão focada em tons de roxo, mantendo a elegância do tema original.
+
+- Roxos intensos  
+- Destaques suaves  
+- Atmosfera moderna e refinada  
+
+---
+
+## 🔷 Dark Blue Purple
+A combinação perfeita entre **roxo violeta** e **azul elétrico**.
+
+- Visual futurista  
+- Tonalidade fria e tecnológica  
+- Destaques equilibrados  
+
+---
+
+## 💗 Dark Pink Purple
+Mistura vibrante de rosa neon com roxo suave.
+
+- Visual único  
+- Destaques coloridos e modernos  
+- Estética ousada, porém profissional  
+
+---
+
+## 🌫️ Dark Purple Pastel
+Uma versão mais suave, lavada e fosca da variante roxa.
+
+- Roxos pastel  
+- Aparência macia e minimalista  
+- Confortável para uso prolongado  
+
+---
+
+## ⚡ Dark Purple Neon
+A variante neon da coleção — moderna e com acentos brilhantes.
+
+- Roxo neon elegante  
+- Destaque futurista  
+- Sem exagero visual  
+
+---
+
+## ❄️ White Frost
+Um tema claro frio inspirado em gelo, vidro e neve.
+
+- Fundo branco frio e suave  
+- Tons gelados de roxo e azul  
+- Visual extremamente limpo  
+
+---
+
+## ☁️ White Purple
+A versão clara ideal para quem ama roxo.
+
+- Interface branca equilibrada  
+- Roxos modernos pela UI  
+- Sintaxe leve e profissional  
+
+---
+
+# 🌟 Características Gerais
+
+Todos os temas seguem a identidade Obsidian Pro:
+
+✔ UI minimalista  
+✔ Sintaxe altamente legível  
+✔ Paletas modernas e bem definidas  
+✔ Ótimos para uso profissional  
+✔ Confortáveis em ambientes escuros e claros  
+
+---
+
+# 🧠 Paleta Base (Tema Dark Original)
+
+### Interface
+- **Editor**: `#0a0a0a`  
+- **Sidebar**: `#070707`  
+- **Activity Bar**: `#050505`  
+- **Status Bar**: `#0f0f0f`  
+
+### Sintaxe
+- **Keywords**: `#8b5cf6`  
+- **Funções**: `#22d3ee`  
+- **Strings**: `#10b981`  
+- **Números**: `#f59e0b`  
+- **Classes**: `#8b5cf6`  
+- **Comentários**: `#6b7280`  
+
+---
+
+# 🚀 Instalação
+
+## Método 1 — Instalação Manual
+
+1. Baixe ou clone os arquivos desta extensão  
+2. Navegue até a pasta de extensões do VS Code:
+
+   - Windows: `%USERPROFILE%\.vscode\extensions`  
+   - macOS: `~/.vscode/extensions`  
+   - Linux: `~/.vscode/extensions`
+
+3. Crie a pasta:
+
+```bash
+mkdir obsidian-pro-theme
+```
+
+4. Coloque os arquivos dentro dela  
+5. Reinicie o VS Code  
+6. Ative o tema com:  
+   **Ctrl+K Ctrl+T** ou **Cmd+K Cmd+T**
+
+---
+
+## Método 2 — Marketplace (Em breve)
+
+O Obsidian Pro será disponibilizado no VS Code Marketplace.  
+Assim que publicado, você poderá instalar diretamente pelo VS Code.
+
+---
+
+# 🛠️ Customização
+
+É possível personalizar qualquer cor do tema editando os arquivos dentro da pasta `themes/`.
+
+Você pode alterar:
+
+- Backgrounds  
+- Paleta de acentos  
+- Cores de sintaxe  
+- Tokens individuais  
+
+---
+
+# 🎯 Ideal Para
+
+- Desenvolvedores **Full-Stack**  
+- **JavaScript / TypeScript**  
+- **React / Next.js / Vue**  
+- **Node.js / Express**  
+- Projetos profissionais e minimalistas  
+- Ambientes escuros ou claros  
+
+---
+
+# 🤝 Contribuindo
+
+1. Faça um fork  
+2. Crie uma branch:  
+   `git checkout -b feature/melhoria`  
+3. Commit:  
+   `git commit -m "Melhoria"`  
+4. Push:  
+   `git push origin feature/melhoria`  
+5. Abra um Pull Request  
+
+---
+
+# 🙏 Agradecimentos
+
+- Criado com foco em produtividade e estética  
+- Inspirado em interfaces profissionais e minimalistas  
+- Projetado para reduzir fadiga visual  
+- Pensado para desenvolvedores exigentes  
+
+---
+
+## 💎 Gostou?
+
+Deixe uma ⭐ no GitHub  
+Compartilhe com outros desenvolvedores  
+E aproveite sua nova experiência de código com **Obsidian Pro**.

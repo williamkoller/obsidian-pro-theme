@@ -1,8 +1,7 @@
 {
-  "name": "Obsidian Pro",
+  "name": "Obsidian Pro - Dark",
   "type": "dark",
   "colors": {
-    // Editor principal
     "editor.background": "#0a0a0a",
     "editor.foreground": "#e4e4e7",
     "editorCursor.foreground": "#3b82f6",
@@ -12,7 +11,6 @@
     "editor.findMatchBackground": "#22d3ee60",
     "editor.findMatchHighlightBackground": "#22d3ee30",
 
-    // Sidebar - fundo bem escuro
     "sideBar.background": "#070707",
     "sideBar.foreground": "#e4e4e7",
     "sideBar.border": "#1f1f23",
@@ -20,7 +18,6 @@
     "sideBarSectionHeader.background": "#111111",
     "sideBarSectionHeader.foreground": "#9ca3af",
 
-    // Activity Bar - quase preto
     "activityBar.background": "#050505",
     "activityBar.foreground": "#9ca3af",
     "activityBar.inactiveForeground": "#6b7280",
@@ -28,13 +25,11 @@
     "activityBarBadge.background": "#6b7280",
     "activityBarBadge.foreground": "#ffffff",
 
-    // Status Bar - tom escuro elegante
     "statusBar.background": "#0f0f0f",
     "statusBar.foreground": "#e4e4e7",
     "statusBar.border": "#1f1f23",
     "statusBarItem.hoverBackground": "#3b82f630",
 
-    // Tabs - design clean
     "tab.activeBackground": "#111111",
     "tab.activeForeground": "#e4e4e7",
     "tab.inactiveBackground": "#070707",
@@ -42,12 +37,10 @@
     "tab.border": "#1f1f23",
     "tab.activeBorder": "#6b7280",
 
-    // Title Bar
     "titleBar.activeBackground": "#050505",
     "titleBar.activeForeground": "#e4e4e7",
     "titleBar.border": "#0f0f0f",
 
-    // Terminal - cores harmoniosas
     "terminal.background": "#0a0a0a",
     "terminal.foreground": "#e4e4e7",
     "terminal.ansiBlack": "#111111",
@@ -67,68 +60,56 @@
     "terminal.ansiBrightCyan": "#67e8f9",
     "terminal.ansiBrightWhite": "#f9fafb",
 
-    // Scrollbar
     "scrollbarSlider.background": "#3b82f630",
     "scrollbarSlider.hoverBackground": "#3b82f650",
     "scrollbarSlider.activeBackground": "#3b82f670",
 
-    // Buttons
     "button.background": "#3b82f6",
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#2563eb",
 
-    // Input
     "input.background": "#111111",
     "input.foreground": "#e4e4e7",
     "input.border": "#6b7280",
     "inputOption.activeBorder": "#3b82f6",
 
-    // Dropdown
     "dropdown.background": "#111111",
     "dropdown.foreground": "#e4e4e7",
     "dropdown.border": "#6b7280",
 
-    // List
     "list.activeSelectionBackground": "#3b82f630",
     "list.activeSelectionForeground": "#ffffff",
     "list.hoverBackground": "#1f1f2320",
     "list.inactiveSelectionBackground": "#3b82f620",
 
-    // Notifications
     "notifications.background": "#111111",
     "notifications.foreground": "#e4e4e7",
     "notifications.border": "#6b7280",
 
-    // Panel
     "panel.background": "#070707",
     "panel.border": "#1f1f23",
     "panelTitle.activeForeground": "#e4e4e7",
     "panelTitle.inactiveForeground": "#9ca3af",
 
-    // Breadcrumbs
     "breadcrumb.background": "#0a0a0a",
     "breadcrumb.foreground": "#9ca3af",
     "breadcrumb.focusForeground": "#e4e4e7",
 
-    // Git colors
     "gitDecoration.modifiedResourceForeground": "#f59e0b",
     "gitDecoration.deletedResourceForeground": "#ef4444",
     "gitDecoration.untrackedResourceForeground": "#10b981",
     "gitDecoration.ignoredResourceForeground": "#6b7280",
     "gitDecoration.conflictingResourceForeground": "#8b5cf6",
 
-    // Error/Warning colors
     "errorForeground": "#ef4444",
     "warningForeground": "#f59e0b",
     "infoForeground": "#3b82f6",
 
-    // Peek view
     "peekView.border": "#3b82f6",
     "peekViewEditor.background": "#111111",
     "peekViewResult.background": "#070707",
     "peekViewTitle.background": "#0f0f0f",
 
-    // Menu
     "menu.background": "#0f0f0f",
     "menu.foreground": "#e4e4e7",
     "menu.selectionBackground": "#3b82f630",
