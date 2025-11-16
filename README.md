@@ -19,7 +19,7 @@ O tema principal da coleção: **dark profundo real**, minimalista e altamente p
 - Alto contraste suave
 - Paleta equilibrada entre roxo, azul e ciano
 - Ideal para longas sessões de programação  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark.png" width="500" height="350" />
 
 ---
 
@@ -30,7 +30,7 @@ Uma versão focada em tons de roxo, mantendo a elegância do tema original.
 - Roxos intensos
 - Destaques suaves
 - Atmosfera moderna e refinada  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple.png" width="500" height="350" />
 
 ---
 
@@ -41,7 +41,7 @@ A combinação perfeita entre **roxo violeta** e **azul elétrico**.
 - Visual futurista
 - Tonalidade fria e tecnológica
 - Destaques equilibrados  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-blue-purple.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-blue-purple.png" width="500" height="350" />
 
 ---
 
@@ -52,7 +52,7 @@ Mistura vibrante de rosa neon com roxo suave.
 - Visual único
 - Destaques coloridos e modernos
 - Estética ousada, porém profissional  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-pink-purple.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-pink-purple.png" width="500" height="350" />
 
 ---
 
@@ -63,7 +63,7 @@ Uma versão mais suave, lavada e fosca da variante roxa.
 - Roxos pastel
 - Aparência macia e minimalista
 - Confortável para uso prolongado  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple-pastel.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple-pastel.png" width="500" height="350" />
 
 ---
 
@@ -74,7 +74,7 @@ A variante neon da coleção — moderna e com acentos brilhantes.
 - Roxo neon elegante
 - Destaque futurista
 - Sem exagero visual  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple-neon.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple-neon.png" width="500" height="350" />
 
 ---
 
@@ -85,7 +85,7 @@ Um tema claro frio inspirado em gelo, vidro e neve.
 - Fundo branco frio e suave
 - Tons gelados de roxo e azul
 - Visual extremamente limpo  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-white.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-white.png" width="500" height="350" />
 
 ---
 
@@ -96,7 +96,7 @@ A versão clara ideal para quem ama roxo.
 - Interface branca equilibrada
 - Roxos modernos pela UI
 - Sintaxe leve e profissional  
-  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-white-purple.png" width="300" height="200" />
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-white-purple.png" width="500" height="350" />
 
 ---
 
