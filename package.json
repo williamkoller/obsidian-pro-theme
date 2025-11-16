@@ -2,7 +2,7 @@
   "name": "obsidian-pro-theme",
   "displayName": "Obsidian Pro Theme",
   "description": "A sleek dark theme for professional developers",
-  "version": "1.0.25",
+  "version": "1.0.1",
   "license": "MIT",
   "publisher": "williamkoller",
   "icon": "icon.jpeg",
@@ -28,27 +28,27 @@
         "path": "./themes/obsidian-pro-color-theme-dark.json"
       },
       {
-        "label": "Obsidian Pro (Dard Purple)",
+        "label": "Obsidian Pro (Dark Purple)",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-pro-color-theme-dark-purple.json"
       },
       {
-        "label": "Obsidian Pro (Dard Blue Purple)",
+        "label": "Obsidian Pro (Dark Blue Purple)",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-pro-color-theme-dark-blue-purple.json"
       },
       {
-        "label": "Obsidian Pro (Dard Pink Purple)",
+        "label": "Obsidian Pro (Dark Pink Purple)",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-pro-color-theme-dark-pink-purple.json"
       },
       {
-        "label": "Obsidian Pro (Dard Purple Neon)",
+        "label": "Obsidian Pro (Dark Purple Neon)",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-pro-color-theme-dark-purple-neon.json"
       },
       {
-        "label": "Obsidian Pro (Dard Purple Pastel)",
+        "label": "Obsidian Pro (Dark Purple Pastel)",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-pro-color-theme-dark-purple-pastel.json"
       },

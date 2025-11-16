@@ -12,75 +12,91 @@ Esta extensão inclui **8 temas exclusivos**, organizados entre variações dark
 ---
 
 ## 🟪 Obsidian Pro — Dark (Original)
+
 O tema principal da coleção: **dark profundo real**, minimalista e altamente profissional.
 
-- Preto real (#0a0a0a)  
-- Alto contraste suave  
-- Paleta equilibrada entre roxo, azul e ciano  
+- Preto real (#0a0a0a)
+- Alto contraste suave
+- Paleta equilibrada entre roxo, azul e ciano
 - Ideal para longas sessões de programação  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark.png" width="300" height="200" />
 
 ---
 
 ## 🟣 Dark Purple Edition
+
 Uma versão focada em tons de roxo, mantendo a elegância do tema original.
 
-- Roxos intensos  
-- Destaques suaves  
+- Roxos intensos
+- Destaques suaves
 - Atmosfera moderna e refinada  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple.png" width="300" height="200" />
 
 ---
 
 ## 🔷 Dark Blue Purple
+
 A combinação perfeita entre **roxo violeta** e **azul elétrico**.
 
-- Visual futurista  
-- Tonalidade fria e tecnológica  
+- Visual futurista
+- Tonalidade fria e tecnológica
 - Destaques equilibrados  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-blue-purple.png" width="300" height="200" />
 
 ---
 
 ## 💗 Dark Pink Purple
+
 Mistura vibrante de rosa neon com roxo suave.
 
-- Visual único  
-- Destaques coloridos e modernos  
+- Visual único
+- Destaques coloridos e modernos
 - Estética ousada, porém profissional  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-pink-purple.png" width="300" height="200" />
 
 ---
 
 ## 🌫️ Dark Purple Pastel
+
 Uma versão mais suave, lavada e fosca da variante roxa.
 
-- Roxos pastel  
-- Aparência macia e minimalista  
+- Roxos pastel
+- Aparência macia e minimalista
 - Confortável para uso prolongado  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple-pastel.png" width="300" height="200" />
 
 ---
 
 ## ⚡ Dark Purple Neon
+
 A variante neon da coleção — moderna e com acentos brilhantes.
 
-- Roxo neon elegante  
-- Destaque futurista  
+- Roxo neon elegante
+- Destaque futurista
 - Sem exagero visual  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-dark-purple-neon.png" width="300" height="200" />
 
 ---
 
 ## ❄️ White Frost
+
 Um tema claro frio inspirado em gelo, vidro e neve.
 
-- Fundo branco frio e suave  
-- Tons gelados de roxo e azul  
+- Fundo branco frio e suave
+- Tons gelados de roxo e azul
 - Visual extremamente limpo  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-white.png" width="300" height="200" />
 
 ---
 
 ## ☁️ White Purple
+
 A versão clara ideal para quem ama roxo.
 
-- Interface branca equilibrada  
-- Roxos modernos pela UI  
+- Interface branca equilibrada
+- Roxos modernos pela UI
 - Sintaxe leve e profissional  
+  <img src="https://microsoft-themes.s3.us-east-1.amazonaws.com/obsidian-pro-white-purple.png" width="300" height="200" />
 
 ---
 
@@ -92,25 +108,27 @@ Todos os temas seguem a identidade Obsidian Pro:
 ✔ Sintaxe altamente legível  
 ✔ Paletas modernas e bem definidas  
 ✔ Ótimos para uso profissional  
-✔ Confortáveis em ambientes escuros e claros  
+✔ Confortáveis em ambientes escuros e claros
 
 ---
 
 # 🧠 Paleta Base (Tema Dark Original)
 
 ### Interface
-- **Editor**: `#0a0a0a`  
-- **Sidebar**: `#070707`  
-- **Activity Bar**: `#050505`  
-- **Status Bar**: `#0f0f0f`  
+
+- **Editor**: `#0a0a0a`
+- **Sidebar**: `#070707`
+- **Activity Bar**: `#050505`
+- **Status Bar**: `#0f0f0f`
 
 ### Sintaxe
-- **Keywords**: `#8b5cf6`  
-- **Funções**: `#22d3ee`  
-- **Strings**: `#10b981`  
-- **Números**: `#f59e0b`  
-- **Classes**: `#8b5cf6`  
-- **Comentários**: `#6b7280`  
+
+- **Keywords**: `#8b5cf6`
+- **Funções**: `#22d3ee`
+- **Strings**: `#10b981`
+- **Números**: `#f59e0b`
+- **Classes**: `#8b5cf6`
+- **Comentários**: `#6b7280`
 
 ---
 
@@ -118,11 +136,11 @@ Todos os temas seguem a identidade Obsidian Pro:
 
 ## Método 1 — Instalação Manual
 
-1. Baixe ou clone os arquivos desta extensão  
+1. Baixe ou clone os arquivos desta extensão
 2. Navegue até a pasta de extensões do VS Code:
 
-   - Windows: `%USERPROFILE%\.vscode\extensions`  
-   - macOS: `~/.vscode/extensions`  
+   - Windows: `%USERPROFILE%\.vscode\extensions`
+   - macOS: `~/.vscode/extensions`
    - Linux: `~/.vscode/extensions`
 
 3. Crie a pasta:
@@ -131,8 +149,8 @@ Todos os temas seguem a identidade Obsidian Pro:
 mkdir obsidian-pro-theme
 ```
 
-4. Coloque os arquivos dentro dela  
-5. Reinicie o VS Code  
+4. Coloque os arquivos dentro dela
+5. Reinicie o VS Code
 6. Ative o tema com:  
    **Ctrl+K Ctrl+T** ou **Cmd+K Cmd+T**
 
@@ -151,43 +169,43 @@ Assim que publicado, você poderá instalar diretamente pelo VS Code.
 
 Você pode alterar:
 
-- Backgrounds  
-- Paleta de acentos  
-- Cores de sintaxe  
-- Tokens individuais  
+- Backgrounds
+- Paleta de acentos
+- Cores de sintaxe
+- Tokens individuais
 
 ---
 
 # 🎯 Ideal Para
 
-- Desenvolvedores **Full-Stack**  
-- **JavaScript / TypeScript**  
-- **React / Next.js / Vue**  
-- **Node.js / Express**  
-- Projetos profissionais e minimalistas  
-- Ambientes escuros ou claros  
+- Desenvolvedores **Full-Stack**
+- **JavaScript / TypeScript**
+- **React / Next.js / Vue**
+- **Node.js / Express**
+- Projetos profissionais e minimalistas
+- Ambientes escuros ou claros
 
 ---
 
 # 🤝 Contribuindo
 
-1. Faça um fork  
+1. Faça um fork
 2. Crie uma branch:  
-   `git checkout -b feature/melhoria`  
+   `git checkout -b feature/melhoria`
 3. Commit:  
-   `git commit -m "Melhoria"`  
+   `git commit -m "Melhoria"`
 4. Push:  
-   `git push origin feature/melhoria`  
-5. Abra um Pull Request  
+   `git push origin feature/melhoria`
+5. Abra um Pull Request
 
 ---
 
 # 🙏 Agradecimentos
 
-- Criado com foco em produtividade e estética  
-- Inspirado em interfaces profissionais e minimalistas  
-- Projetado para reduzir fadiga visual  
-- Pensado para desenvolvedores exigentes  
+- Criado com foco em produtividade e estética
+- Inspirado em interfaces profissionais e minimalistas
+- Projetado para reduzir fadiga visual
+- Pensado para desenvolvedores exigentes
 
 ---
 
